@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === "production") {
   //生产环境mysql数据库连接配置
   config.MYSQL = {
     host: 'localhost',
-    database: 'navigation_self',
+    database: 'navigation_test',
     username: 'root',
     password: '123456'
   }
