@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1347461",
+      "name": "360",
+      "font_class": "icon-test",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "3876349",
+      "name": "bing",
+      "font_class": "bing",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "19447817",
+      "name": "谷歌",
+      "font_class": "google-circle-fill",
+      "unicode": "eaa8",
+      "unicode_decimal": 60072
+    },
+    {
+      "icon_id": "20312928",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "22724216",
+      "name": "icon-搜狗代充设置",
+      "font_class": "icon-sougoudaichongshezhi",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}

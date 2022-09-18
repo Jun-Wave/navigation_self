@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "nav-two",
+      "script": "./bin/www",
+      "merge_logs": true,
+      "instances": 1,
+      "exec_mode": "cluster",
+      "error_file": "./log/nodejs/decorate-api/err2.log",
+      "out_file": "./log/nodejs/decorate-api/out2.log",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 3005
+      }
+    }
+  ]
+}

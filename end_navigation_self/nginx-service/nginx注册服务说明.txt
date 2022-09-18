@@ -1,0 +1,7 @@
+cmd一定在管理员模式下打开
+
+nginx-service.exe install 命令可注册对应的系统服务
+nginx-service.exe uninstall 命令可删除对应的系统服务
+nginx-service.exe stop 命令可停止对应的系统服务
+nginx-service.exe start 命令可启动对应的系统服务
+nginx-service.exe restart
